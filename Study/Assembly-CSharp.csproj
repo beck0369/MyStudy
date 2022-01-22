@@ -54,11 +54,30 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Chapter3\Chapter3.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Chapter4_EX1.cs" />
     <Compile Include="Assets\Scripts\Chapter3\Chapter3_EX3.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX1_IF.cs" />
     <Compile Include="Assets\Scripts\Chapter3\Chapter3_EX2.cs" />
     <Compile Include="Assets\Scripts\Chapter4\Chapter4.cs" />
     <Compile Include="Assets\Scripts\Chapter3\Chapter3_EX1.cs" />
-    <Compile Include="Assets\Scripts\Chapter4\Chapter4_EX1.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX1_SWITCH.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX2_IF.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX3_ConditionalOperator.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX2_ConditionalOperator.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX3_IF.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX3_SWITCH.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX4_IF.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX5_IF.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX5_SWITCH.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX6_SWITCH.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX6_IF.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX7_IF.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX7_SWITCH.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX8_IF.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX8_SWITCH.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX9.cs" />
+    <Compile Include="Assets\Scripts\Chapter5\Chapter5_EX10.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
