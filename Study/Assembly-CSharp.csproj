@@ -54,9 +54,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Chapter3\Chapter3.cs" />
-    <Compile Include="Assets\Scripts\Chapter3\Chapter3_EX1.cs" />
-    <Compile Include="Assets\Scripts\Chapter3\Chapter3_EX2.cs" />
     <Compile Include="Assets\Scripts\Chapter3\Chapter3_EX3.cs" />
+    <Compile Include="Assets\Scripts\Chapter3\Chapter3_EX2.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Chapter4.cs" />
+    <Compile Include="Assets\Scripts\Chapter3\Chapter3_EX1.cs" />
+    <Compile Include="Assets\Scripts\Chapter4\Chapter4_EX1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
